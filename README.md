@@ -11,9 +11,7 @@ This repository contains a group mini project to build a **Login Page** using co
 
 ## 🚩 Project Features
 - User login form (username/email & password)
-- Input validation and error messages
-- Basic frontend design (HTML/CSS/JS or your chosen stack)
-- (Optional) Backend integration for authentication
+- Basic frontend design (HTML/CSS/JS)
 
 ## 🛠️ How to Run
 1. Clone this repository:
@@ -40,9 +38,3 @@ Group-Project/
 └── (other files)
 ```
 
-## 📢 Contact
-For any queries, open an issue or contact a group member via GitHub.
-
----
-
-*This project is created for learning collaborative software development in a group setting.*
